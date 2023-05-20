@@ -1,5 +1,5 @@
 #include <iostream>
-
+//This program is made for educational purposes
 using namespace std;
 
 int main()
