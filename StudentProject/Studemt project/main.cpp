@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a, b, c, d;
+    int a, b, c, d, e;
 
     std::cout << "Enter first number " << endl;
     std::cin >> a;
@@ -17,4 +17,7 @@ int main()
     d = a-b;
     cout << "Your dif answer is:" << endl;
     cout << d << endl;
+    e = a*b;
+    cout << "Your multi answer is:" << endl;
+    cout << e << endl;
 }
