@@ -17,7 +17,12 @@ int main()
     d = a-b;
     cout << "Your dif answer is:" << endl;
     cout << d << endl;
+<<<<<<< HEAD
     e = a*b;
     cout << "Your multi answer is:" << endl;
+=======
+    e = a/b;
+    cout << "Your div answer is:" << endl;
+>>>>>>> division
     cout << e << endl;
 }
